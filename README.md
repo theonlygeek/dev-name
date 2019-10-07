@@ -24,3 +24,5 @@ After commit you need to do final pull request for that go to pull request secti
 After that Click create pull request and its done.
 
 As simple as that.
+
+You have done your first pull request similarly do other four pull requests.
