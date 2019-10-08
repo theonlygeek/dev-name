@@ -17,7 +17,7 @@ After that open the file which you want to do changes.
 
 Click on the edit button and add your details in the mentioned format.
 
-Last Click on Commit .
+Last Click on Commit Changes.
 
 After commit you need to do final pull request for that go to pull request section in the repository and click new pull request.
 
