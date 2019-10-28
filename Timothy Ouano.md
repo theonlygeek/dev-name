@@ -1,2 +1,0 @@
-Timothy Ouano
-Developer
