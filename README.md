@@ -3,7 +3,7 @@ Just add your name in the list and create a pull request
 
 Great to see you here!!
 
-Lets start how to do a PULL REQUEST.
+Lets start how to do a `PULL REQUEST`.
 For that you need to fork the repository.
 
 Fork this repository 
