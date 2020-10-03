@@ -1,4 +1,4 @@
-# First-Pull-Request
+# dev-name
 Just add your name in the list and create a pull request
 
 Great to see you here!!
@@ -7,7 +7,7 @@ Lets start how to do a `PULL REQUEST`.
 For that you need to fork the repository.
 
 Fork this repository 
-[First-Pull-Request](https://github.com/HacktoberFest-CU/First-Pull-Request)
+[dev-name](https://github.com/HacktoberFest-CU/dev-name)
 
 Click on Fork Button.
 
